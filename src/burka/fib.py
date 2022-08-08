@@ -7,5 +7,4 @@ while i < 15:
     n1 = n2
     n2 = n_sum
     i = i + 1
-
     print(n2)
